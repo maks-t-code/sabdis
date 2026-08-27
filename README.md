@@ -10,12 +10,12 @@
 
 Портфолио разбито на изолированные директории. Вы можете перейти в каждую папку для ознакомления с подробной документацией, исходным кодом и примерами результатов:
 
-1.  [**`01_bank_accounts_analytics/`**](./bank_accounts_analytics) — Комплекс аналитических SQL-запросов для банковского сектора.
-2.  [**`02_real_estate_analytics/`**](./real_estate_analytics) — Модуль очистки и гео-сегментации рынка жилой недвижимости на Pandas.
-3.  [**`03_web_integration_suite/`**](./web_integration_suite) — Набор скриптов для сбора данных (API OpenWeatherMap, BeautifulSoup4).
-4.  [**`04_video_games_marketing/`**](./video_games_marketing) — Исследование игровой индустрии (EDA) с кросс-региональным профилированием.
-5.  [**`05_edtech_funnel_analytics/`**](./edtech_funnel_analytics) — Анализ продуктовых метрик вовлеченности (COR) и воронки продаж онлайн-школы.
-6.  [**`06_restaurant_tips_dashboard/`**](./restaurant_tips_dashboard) — Комплексный транзакционный анализ и интерактивный BI-дашборд на Plotly.
+1.  [**`bank_accounts_analytics/`**](./bank_accounts_analytics) — Комплекс аналитических SQL-запросов для банковского сектора.
+2.  [**`real_estate_analytics/`**](./real_estate_analytics) — Модуль очистки и гео-сегментации рынка жилой недвижимости на Pandas.
+3.  [**`web_integration_suite/`**](./web_integration_suite) — Набор скриптов для сбора данных (API OpenWeatherMap, BeautifulSoup4).
+4.  [**`video_games_marketing/`**](./video_games_marketing) — Исследование игровой индустрии (EDA) с кросс-региональным профилированием.
+5.  [**`edtech_funnel_analytics/`**](./edtech_funnel_analytics) — Анализ продуктовых метрик вовлеченности (COR) и воронки продаж онлайн-школы.
+6.  [**`restaurant_tips_dashboard/`**](./restaurant_tips_dashboard) — Комплексный транзакционный анализ и интерактивный BI-дашборд на Plotly.
 
 ---
 
